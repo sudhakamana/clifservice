@@ -1,0 +1,64 @@
+.navigation{background-color:#f8f8f8;height:100px;}
+.navbar-default {margin-top:15px !important;}
+.nav-navbar {z-index:99999;} 
+.carousel-inner {z-index:-1;} 
+
+.bttn li{border-bottom:1px solid #E6E6E6;}
+
+.slider {height:auto;}
+.carousel-caption {background-color:rgba(0,0,0,0.25);padding:20px;position: absolute;    bottom: 255px!important;
+    top: 191px !important;}
+.navbar-collapse {z-index:1 !important;}
+
+.jumbotron {
+	color:white!important;
+	background-color:rgba(0,0,0,0.26)!important;
+	padding:20px 20px!important;
+	margin-top:15%!important;
+}
+.article {background-color:#003366;color:white;}
+.article p{color:#E6E6E6}
+.bottom {padding-bottom: 20px;}
+
+.solutions {}
+.Services h3{padding-top:20px;padding-bottom:30px;}
+
+.bg-color{
+	background-image:url("../images/whywe-bg.jpg");
+	
+	background-size:cover;
+}
+.bg-color h2{color:yellow;}
+.bg-color p{color:white;}
+.bg-color li{color:white;list-style:none;}
+.news ul li  {padding: 0 0 0 29px;}
+.Partners {padding-bottom: 23px;}
+
+.footer {background-color:black;height:50px;color:white;}
+.footer p{padding-top: 9px;}
+/* .icons i{color:white;} */
+.footer ul{font-size:20px;} 
+.footer ul i{padding:9px;color:white;} 
+
+/* media queries */
+@media only screen and (max-width:568px)
+{
+	.our-services {text-align:center;}
+	.Partners {text-align:center;}
+
+}
+@media only screen and (min-width:569px) and (max-width:768px)
+{
+
+}
+@media only screen and (min-width: 769px) 
+{
+
+}
+
+
+
+
+
+
+
